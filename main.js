@@ -3,8 +3,8 @@ var winW = window.innerWidth;
 
 
 function preload() {
-  game.load.image('first', 'http://i.imgur.com/uqf75Sn.png');
-  game.load.image('last', 'http://i.imgur.com/aPY4K2X.png');
+  game.load.image('first', 'http://i.imgur.com/105gPPB.png');
+  game.load.image('last', 'http://i.imgur.com/9x8lNpr.png');
 }
 
 var sprite;
